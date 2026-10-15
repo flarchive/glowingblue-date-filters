@@ -2,13 +2,16 @@
 
 > **Read-only archive of released versions of glowingblue/date-filters.** Not for installation: use [Packagist](https://packagist.org/packages/glowingblue/date-filters) or the [upstream repository](https://github.com/glowingblue/flarum-ext-date-filters).
 
-**0** versions archived · Latest: [`2.0.2`](https://github.com/flarchive/glowingblue-date-filters/tree/archive/v2.0.2) · License: `MIT` · Flarum: `^2.0.0`
+**4** versions archived · Latest: [`2.0.2`](https://github.com/flarchive/glowingblue-date-filters/tree/archive/v2.0.2) · License: `MIT` · Flarum: `^2.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.1.1` | 2026-10-15 | `^1.8.0` | [Browse](https://github.com/flarchive/glowingblue-date-filters/tree/archive/v1.1.1) |
+| `2.0.0` | 2026-10-15 | `^2.0.0` | [Browse](https://github.com/flarchive/glowingblue-date-filters/tree/archive/v2.0.0) |
+| `2.0.1` | 2026-10-15 | `^2.0.0` | [Browse](https://github.com/flarchive/glowingblue-date-filters/tree/archive/v2.0.1) |
+| `2.0.2` | 2026-10-15 | `^2.0.0` | [Browse](https://github.com/flarchive/glowingblue-date-filters/tree/archive/v2.0.2) |
 
 Catalog entry: [packages/glowingblue-date-filters.json](https://github.com/flarchive/archive-index/blob/main/packages/glowingblue-date-filters.json)
 
